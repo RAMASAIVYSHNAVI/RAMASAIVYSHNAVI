@@ -1,0 +1,10 @@
+a=int(input('enter a value'))
+b=int(input('enter b value'))
+if a==b:
+    print('a and b are not equal')
+else:
+    print('a and b are not equal')
+if a>b:
+    print('a is grater than b')
+else:
+        print('b is grater than a')
